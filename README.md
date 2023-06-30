@@ -1,2 +1,2 @@
 # ChronoArt
-Jeu en ligne ChronoArt, inspiré de Chronophoto
+Dépôt Git de ChronoArt, un jeu en ligne inspiré de [Chronophoto](https://www.chronophoto.app/). Le but: deviner l'année de création d'une oeuvre issue de domaines, courants et époques variées.
